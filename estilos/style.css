@@ -4,6 +4,10 @@
 
 }
 
+img.lado {
+    float: right;
+}
+
 body {
     background-color: antiquewhite;
 }
