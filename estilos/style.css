@@ -8,9 +8,9 @@ body {
     background-color: antiquewhite;
 }
 main {
-    background-color: black;
+    background-color: rgb(193, 95, 95);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(133, 40, 40);
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
 }
